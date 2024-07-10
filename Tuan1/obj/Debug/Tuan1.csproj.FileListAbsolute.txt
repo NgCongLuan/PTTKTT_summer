@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\2001210496_NguyenCongLuan\2001210496_NguyencongLuan\Tuan1\Tuan1\bin\Debug\Tuan1.exe.config
+E:\LuuDuLieuSinhVien\2001210496_NguyenCongLuan\2001210496_NguyencongLuan\Tuan1\Tuan1\bin\Debug\Tuan1.exe
+E:\LuuDuLieuSinhVien\2001210496_NguyenCongLuan\2001210496_NguyencongLuan\Tuan1\Tuan1\bin\Debug\Tuan1.pdb
+E:\LuuDuLieuSinhVien\2001210496_NguyenCongLuan\2001210496_NguyencongLuan\Tuan1\Tuan1\obj\Debug\Tuan1.exe
+E:\LuuDuLieuSinhVien\2001210496_NguyenCongLuan\2001210496_NguyencongLuan\Tuan1\Tuan1\obj\Debug\Tuan1.pdb
