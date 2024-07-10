@@ -3,3 +3,15 @@ E:\LuuDuLieuSinhVien\2001210496_NguyenCongLuan\2001210496_NguyencongLuan\Tuan1\T
 E:\LuuDuLieuSinhVien\2001210496_NguyenCongLuan\2001210496_NguyencongLuan\Tuan1\Tuan1\bin\Debug\Tuan1.pdb
 E:\LuuDuLieuSinhVien\2001210496_NguyenCongLuan\2001210496_NguyencongLuan\Tuan1\Tuan1\obj\Debug\Tuan1.exe
 E:\LuuDuLieuSinhVien\2001210496_NguyenCongLuan\2001210496_NguyencongLuan\Tuan1\Tuan1\obj\Debug\Tuan1.pdb
+E:\LuuDuLieuSinhVien\NguyenCongLuan\Tuan1\Tuan1\bin\Debug\Tuan1.exe.config
+E:\LuuDuLieuSinhVien\NguyenCongLuan\Tuan1\Tuan1\bin\Debug\Tuan1.exe
+E:\LuuDuLieuSinhVien\NguyenCongLuan\Tuan1\Tuan1\bin\Debug\Tuan1.pdb
+E:\LuuDuLieuSinhVien\NguyenCongLuan\Tuan1\Tuan1\obj\Debug\Tuan1.exe
+E:\LuuDuLieuSinhVien\NguyenCongLuan\Tuan1\Tuan1\obj\Debug\Tuan1.pdb
+D:\source\HK-hè-2024\PTTKTT\Tuan1\Tuan1\bin\Debug\Tuan1.exe.config
+D:\source\HK-hè-2024\PTTKTT\Tuan1\Tuan1\bin\Debug\Tuan1.exe
+D:\source\HK-hè-2024\PTTKTT\Tuan1\Tuan1\bin\Debug\Tuan1.pdb
+D:\source\HK-hè-2024\PTTKTT\Tuan1\Tuan1\obj\Debug\Tuan1.csproj.AssemblyReference.cache
+D:\source\HK-hè-2024\PTTKTT\Tuan1\Tuan1\obj\Debug\Tuan1.csproj.CoreCompileInputs.cache
+D:\source\HK-hè-2024\PTTKTT\Tuan1\Tuan1\obj\Debug\Tuan1.exe
+D:\source\HK-hè-2024\PTTKTT\Tuan1\Tuan1\obj\Debug\Tuan1.pdb
